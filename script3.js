@@ -22,28 +22,28 @@ let updateTimer;
 
 const music_list = [
     {
-        img : 'pictures/garuda.jpg',
-        name : 'Garuda Gamana Tava',
-        artist : 'Jagadguru Bharathi Theertha Swamiji of Shringeri',
-        music : 'music/https://youtu.be/_GrMe9Cipg4?si=tOPPnTXWUQNN64Hb'
+        img : 'pictures/gaaju bomma.jpg',
+        name : 'Gaaju Bomma',
+        artist : 'Hesham Abdul Wahab',
+        music : 'music/Gaaju Bomma.mp3'
     },
     {
         img : 'pictures/Rathamarey.jpg',
         name : 'Rathamarey',
         artist : 'Anirudh Ravichandran',
-        music : 'music/https://youtu.be/nDJ8KgjlzYM?si=nl9JpNHKe1l5uWEz'
+        music : 'music/Rathamarey.mp3'
     },
     {
         img : 'pictures/Achyutham Keshavam.jpg',
         name : 'Achyutham Keshavam',
         artist : 'Alka Yagnik',
-        music : 'music/https://youtu.be/5-Xoh7jKVo8?si=h8QuJl64WRL3dsMp'
+        music : 'music/Achyutham Keshavam.mp3'
     },
     {
         img : 'pictures/yevarini adaganu',
         name : 'Yevarini Adaganu',
         artist : 'Yazin Nazir',
-        music : 'music/https://youtu.be/Tru9NqcMZoQ?si=C6jryPAq9rZfM3Yf'
+        music : 'music/Yevarini Adaganu.mp3'
     }
 ];
 
