@@ -17,10 +17,6 @@ body {
   justify-content: center;
   margin-top: 25px;
 }
-.details span{
-  font-family: 'Montserrat', sans-serif;
-  font-weight: bold;
-}
 .track-art {
   margin: 25px;
   height: 250px;
